@@ -1,0 +1,15 @@
+chromadb==0.5.11
+gradio==5.32.1
+jieba==0.42.1
+langchain_text_splitters==0.3.8
+numpy==2.2.6
+openai==1.84.0
+pandas==2.2.3
+pdfminer_six==20250506
+python-dotenv==1.1.0
+python_docx==1.1.2
+python_pptx==1.0.2
+pywin32==307
+rank_bm25==0.2.2
+Requests==2.32.3
+sentence_transformers==4.1.0
